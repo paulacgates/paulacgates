@@ -1,5 +1,5 @@
 <h1 align="center">Oi, sou a Paula 👩‍🦰 </h1>
-<h3 align="center">Aprendendo a desenvolver frontend e backend recentemente e ansiosa pelo que virá! Já trabalhei com redes, infraestrutura e segurança na Secretaria de Saúde de Mato Grosso.</h3>
+<h3 align="center">Aprendendo a desenvolver frontend e backend e ansiosa pelo que virá! Já trabalhei com redes, infraestrutura e segurança na Secretaria de Saúde de Mato Grosso.</h3>
 
 - 🔭 Atualmente estou trabalhando na **Secretaria de Fazenda de Mato Grosso**
 
