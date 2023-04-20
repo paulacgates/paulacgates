@@ -1,7 +1,7 @@
 <h1 align="center">Oi, sou a Paula 👩‍🦰 </h1>
 <h3 align="center">Aprendendo a desenvolver frontend e backend e ansiosa pelo que virá! Já trabalhei com redes, infraestrutura e segurança na Secretaria de Saúde de Mato Grosso. E com desenvolvimento FullStack do sistema MPI na Secretaria de Fazenda de Mato Grosso </h3>
 
-- 🌱 Estou aprendendo **HTML, CSS, Angular, React, Java, Javascript e Typescript**
+- 🌱 Estou aprendendo **HTML, CSS, Angular, React, Javascript, Typescript, Java e Go**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
